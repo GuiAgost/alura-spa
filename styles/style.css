@@ -144,6 +144,28 @@ nav ul li a:hover {
   border-color: #FFF3DA;
 }
 
+#folder {
+  text-align: center;
+  padding: 3rem;
+}
+#folder h3 {
+  font-size: 2rem;
+  color: #6499E9;
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+#folder h4 {
+  font-size: 1.2rem;
+  margin-bottom: 0.2rem;
+}
+#folder p {
+  font-size: 1rem;
+}
+#folder .mensagem {
+  color: #2E4374;
+  font-weight: 300;
+}
+
 footer {
   text-align: center;
   font-size: 1.5rem;
