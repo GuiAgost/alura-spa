@@ -13,4 +13,18 @@ Este é o projeto alura-spa desenvolvido durante curso de [SASS: sintaticamente 
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+No decorrer do curso, foi desenvolvido uma página para uma empresa fictícia denominada 'Alura Spa', aplicando o Sass para estilizar suas seções através de vários arquivos .scss e .sass.
+
+Os passos fundamentais foram desenvolvido:
+
+* Estilização de suas aplicações web com Sass
+* Modularizar suas folhas de estilo sem perder a performance da aplicação
+* Aplicar o princípio de software DRY em suas folhas de estilos
+* Criar funções, validações, variáveis em seus estilos
+
+Foi desenvolvido apenas para desktop, segue o layout abaixo
+
+## Desktop
+
+<p align="center"><img width="600"  alt="alura-spa" src="https://github.com/GuiAgost/alura-spa/assets/76624588/147d16c7-22c8-4f4d-890b-181ba812be36#vitrinedev"></p>
+
