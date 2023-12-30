@@ -9,7 +9,7 @@ Este é o projeto alura-spa desenvolvido durante curso de [SASS: sintaticamente 
 | :sparkles: Nome        | **Alura-spa**
 | :label: Tecnologias |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" hedight="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" hedight="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" hedight="30"/>          
 | :rocket: URL         | https://guiagost.github.io/alura-spa/
-| :fire: Desafio     | https://cursos.alura.com.br/course/sass-css-sintaticamente-espetacular
+| :fire: Curso     | https://cursos.alura.com.br/course/sass-css-sintaticamente-espetacular
 
 ## Detalhes do projeto
 
